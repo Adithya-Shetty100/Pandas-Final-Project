@@ -1,4 +1,4 @@
-#INTRODUCTION
+<h1>INTRODUCTION</h1>
 
 We had been given a dataset regarding all the companies that have registered in India. The Registrar of Company takes care of company registration/incorporation in India.It even completes reporting and regulation of companies and their directors and shareholders, and also oversees government reporting of various matters including the annual filling of various documents.The Registrar of Companies (ROC) is an office under the Indian Ministry of Corporate Affairs that deals with administration of the Companies Act, 2013, The Limited Liability Partnership Act, 2008, The Company Secretaries Act, 1980 and The Chartered Accountants Act, 1949. These officers are from Indian Corporate Law Service cadre('ICLS').
 
