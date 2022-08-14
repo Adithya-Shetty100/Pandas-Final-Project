@@ -1,2 +1,8 @@
-# Pandas-Final-Project
-This was our final project for Power of Pandas Special Topic in 5th Semester of PES Universoty
+#INTRODUCTION
+We had been given a dataset regarding all the companies that have registered in India. The Registrar of Company takes care of company registration/incorporation in India.It even completes reporting and regulation of companies and their directors and shareholders, and also oversees government reporting of various matters including the annual filling of various documents.The Registrar of Companies (ROC) is an office under the Indian Ministry of Corporate Affairs that deals with administration of the Companies Act, 2013, The Limited Liability Partnership Act, 2008, The Company Secretaries Act, 1980 and The Chartered Accountants Act, 1949. These officers are from Indian Corporate Law Service cadre('ICLS').
+
+The dataset contained almost 14 columns such as Company name, Company Class, Company Status, Capital,Industrial Class,Business Activity and few more. Our objective was to analysis this dataset and gather as many insights as possible. As there was a lot of information, it was necessary to clean the data first before doing anything else. So we removed Industrial Class, Latest Year Annual Return and Latest Year Financial Statement as these columns didnt have any required information to perform analysis.
+
+Using the concepts we learnt in our Power of Pandas course, we tried asking as many questions as possible in order to draw important conclusions. Then we coded to find the solution for our questions. We even used graphs as we felt the analysis could be understood better through graphs. We used loops, dictionaries, numpy, pandas, groupby, countplot, bar, count and various other functions to perform Exploratory Data Analysis on our modified dataset.
+
+There was no scope for using machine learning models, as the data for each company was limited, and we didnt have enough training sets for each company.
